@@ -1,0 +1,5 @@
+name: test
+runtime: nodejs
+description: A minimal Google Cloud TypeScript Pulumi program
+backend:
+  url: file://./test

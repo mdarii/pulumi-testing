@@ -1,0 +1,5 @@
+encryptionsalt: v1:qpGyDBq8I0Y=:v1:7zHPzJSvhG+iEq1l:kWYIFGH65WTnR9HTM0HxY2Gle9CNkg==
+config:
+  test:envars:
+    test: test1
+    zuzu: kaka
